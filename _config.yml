@@ -20,7 +20,7 @@ timezone: Asia/Dhaka
 
 title: Tanvir's Diary # the main title
 
-tagline: Tells story through code # it will display as the sub-title
+tagline: Tells story behind the code # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My personal technical blog
