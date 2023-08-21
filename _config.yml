@@ -40,11 +40,13 @@ social:
   email: tanvir66288@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/tanvir362 # change to your twitter homepage
     - https://github.com/tanvir362 # change to your github homepage
+    - https://www.linkedin.com/in/tanvir362
+    - https://twitter.com/tanvir362 # change to your twitter homepage
+    
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/tanvir362
+    
     - https://www.codingame.com/profile/de3de870009b6003314ce9cfff4a0d539284961
 
 google_site_verification: # fill in to your verification string
@@ -194,3 +196,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+
+# <link type="image/png" sizes="96x96" rel="icon" href=".../icons8-brain-96.png">
