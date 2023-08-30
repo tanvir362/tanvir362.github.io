@@ -12,7 +12,10 @@ A passionate programmer having good analytical ability. Loves to solve problems 
 #### Worklife
 > June2021 - Ongoing
 > Python, Django, React, Slack SDK, PostgreSQL, Azure, AWS
-- 
+- Developed an employee recognition and praising system
+- Developed Google Calendar, Google Drive and GitHub integrations for Web and Slack app
+- Improved the flexibility and modularity of an existing product by restructuring it
+- Server maintenance and CI/CD at Azure and AWS
 
 
 ## Research Focus
@@ -57,7 +60,7 @@ Multimodal learning in industrial surface defect detection. (About to start)
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgwNTQxLC02Mjc0NDA1ODIsLTEzNT
-U2ODUzNDksMTQ4NTgyNTAyLDEwNTAyMjk2NjYsLTEwODY3OTkx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTk4MTkxNDgwNCwtNjI3NDQwNTgyLC0xMz
+U1Njg1MzQ5LDE0ODU4MjUwMiwxMDUwMjI5NjY2LC0xMDg2Nzk5
+MTE2XX0=
 -->
