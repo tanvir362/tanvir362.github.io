@@ -36,17 +36,20 @@ Completed several university projects as a group leader, attended
 BACS national programming camp, attended different workshops and
 seminars.
 
-## Projects
-### [Wordle]()
+## Project
+### [Wordle](https://www.codingame.com/multiplayer/optimization/wordle)
+Wordle is an engaging multiplayer optimization game developed for the CodinGame platform. In this game, players are challenged to write programs that efficiently guess a hidden word. The objective is to optimize the number of guesses and compete against players from all over the world
 
 ## Awards
 - 4th in BUBT Intra University Programming Contest(individual), Spring-2018
 - 2nd in BUBT Intra University Programming Contest, Fall-2016-17
 - 2nd in BUBT Intra University Programming Contest, Spring-2016
 
+## Certificati
+
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NzczNzQ5LDExNDI2MDU3MzMsMTA2OD
+eyJoaXN0b3J5IjpbMjMzNjYxMzc4LDExNDI2MDU3MzMsMTA2OD
 QyNzk3OCwxMjQzNTg3NDczLC02Mjc0NDA1ODIsLTEzNTU2ODUz
 NDksMTQ4NTgyNTAyLDEwNTAyMjk2NjYsLTEwODY3OTkxMTZdfQ
 ==
