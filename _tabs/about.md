@@ -22,16 +22,20 @@ A passionate programmer having good analytical ability. Loves to solve problems 
 #### D2
 > Jan 2020 - Jun 2021
 > Python, Django, React, Material-UI, PostgreSQL, AWS
-- Developed an employee recognition and praising system
-- Developed Google Calendar, Google Drive and GitHub integrations for Web and Slack app
+- Developed questionnaire builder
+- Developed adjustable heuristic-based fraudulent submission flagger
 - Improved the flexibility and modularity of an existing product by restructuring it
-- Server maintenance and CI/CD at Azure and AWS
+- Developed CRM software
 
+## Education
+### B.Sc in Computer Science and Engineering
+#### Bangladesh University of Business and Technology
+> 
 
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMzU0ODA2LDEyNDM1ODc0NzMsLTYyNz
-Q0MDU4MiwtMTM1NTY4NTM0OSwxNDg1ODI1MDIsMTA1MDIyOTY2
-NiwtMTA4Njc5OTExNl19
+eyJoaXN0b3J5IjpbLTQ2MjQyOTQzMiwxMjQzNTg3NDczLC02Mj
+c0NDA1ODIsLTEzNTU2ODUzNDksMTQ4NTgyNTAyLDEwNTAyMjk2
+NjYsLTEwODY3OTkxMTZdfQ==
 -->
