@@ -37,11 +37,12 @@ BACS national programming camp, attended different workshops and
 seminars.
 
 ## Awards
--
+- 2nd in BUBT Intra University Programming Contest, Fall-2016-17
+- 2nd in BUBT Intra University Programming Contest, Spring-2016
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxMjk3ODc1LDEwNjg0Mjc5NzgsMTI0Mz
-U4NzQ3MywtNjI3NDQwNTgyLC0xMzU1Njg1MzQ5LDE0ODU4MjUw
-MiwxMDUwMjI5NjY2LC0xMDg2Nzk5MTE2XX0=
+eyJoaXN0b3J5IjpbMTE0MjYwNTczMywxMDY4NDI3OTc4LDEyND
+M1ODc0NzMsLTYyNzQ0MDU4MiwtMTM1NTY4NTM0OSwxNDg1ODI1
+MDIsMTA1MDIyOTY2NiwtMTA4Njc5OTExNl19
 -->
