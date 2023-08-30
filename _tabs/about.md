@@ -17,7 +17,7 @@ A passionate programmer having good analytical ability. Loves to solve problems 
 - Developed Google Calendar, Google Drive and GitHub integrations for Web and Slack app
 - Improved the flexibility and modularity of an existing product by restructuring it
 - Server maintenance and CI/CD at Azure and AWS
-- 
+
 ### Software Engineer
 #### D2
 > Jan 2020 - Jun 2021
@@ -39,7 +39,7 @@ seminars.
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkwMzE0NTksMTI0MzU4NzQ3MywtNj
-I3NDQwNTgyLC0xMzU1Njg1MzQ5LDE0ODU4MjUwMiwxMDUwMjI5
-NjY2LC0xMDg2Nzk5MTE2XX0=
+eyJoaXN0b3J5IjpbMTA2ODQyNzk3OCwxMjQzNTg3NDczLC02Mj
+c0NDA1ODIsLTEzNTU2ODUzNDksMTQ4NTgyNTAyLDEwNTAyMjk2
+NjYsLTEwODY3OTkxMTZdfQ==
 -->
