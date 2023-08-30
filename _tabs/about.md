@@ -47,12 +47,13 @@ Wordle is an engaging multiplayer optimization game developed for the CodinGame 
 
 ## Certifications
 - [CodinGame Certification - AI - GOLD](https://www.codingame.com/certification/g3sDJWb5MT4r6tqSCKBYww)
-- [CodinGame Certification - ALGORITHMS - SILVER]()
+- [CodinGame Certification - ALGORITHMS - SILVER](https://www.codingame.com/certification/3kIl8lEBonbaY6hPKIAZGg)
+- [CodinGame Certification - CODING_SPEED - LEGEND](https://www.codingame.com/certification/5UakRMX0uvsuxnvTy3tdpw)
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzgzMjM0NiwxMTQyNjA1NzMzLDEwNj
-g0Mjc5NzgsMTI0MzU4NzQ3MywtNjI3NDQwNTgyLC0xMzU1Njg1
-MzQ5LDE0ODU4MjUwMiwxMDUwMjI5NjY2LC0xMDg2Nzk5MTE2XX
-0=
+eyJoaXN0b3J5IjpbLTE2Njk2NDIyMTEsMTE0MjYwNTczMywxMD
+Y4NDI3OTc4LDEyNDM1ODc0NzMsLTYyNzQ0MDU4MiwtMTM1NTY4
+NTM0OSwxNDg1ODI1MDIsMTA1MDIyOTY2NiwtMTA4Njc5OTExNl
+19
 -->
