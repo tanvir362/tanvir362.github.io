@@ -46,11 +46,12 @@ Wordle is an engaging multiplayer optimization game developed for the CodinGame 
 - 2nd in BUBT Intra University Programming Contest, Spring-2016
 
 ## Certifications
-- []()
+- [CodinGame Certification - AI - GOLD](https://www.codingame.com/certification/g3sDJWb5MT4r6tqSCKBYww)
+- [CodinGame Certification - ALGORITHMS - SILVER]()
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzg4MzY3MCwxMTQyNjA1NzMzLDEwNj
+eyJoaXN0b3J5IjpbMTIxMzgzMjM0NiwxMTQyNjA1NzMzLDEwNj
 g0Mjc5NzgsMTI0MzU4NzQ3MywtNjI3NDQwNTgyLC0xMzU1Njg1
 MzQ5LDE0ODU4MjUwMiwxMDUwMjI5NjY2LC0xMDg2Nzk5MTE2XX
 0=
