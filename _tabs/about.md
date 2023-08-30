@@ -36,10 +36,12 @@ Completed several university projects as a group leader, attended
 BACS national programming camp, attended different workshops and
 seminars.
 
+## Awards
+-
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODQyNzk3OCwxMjQzNTg3NDczLC02Mj
-c0NDA1ODIsLTEzNTU2ODUzNDksMTQ4NTgyNTAyLDEwNTAyMjk2
-NjYsLTEwODY3OTkxMTZdfQ==
+eyJoaXN0b3J5IjpbNDkxMjk3ODc1LDEwNjg0Mjc5NzgsMTI0Mz
+U4NzQ3MywtNjI3NDQwNTgyLC0xMzU1Njg1MzQ5LDE0ODU4MjUw
+MiwxMDUwMjI5NjY2LC0xMDg2Nzk5MTE2XX0=
 -->
