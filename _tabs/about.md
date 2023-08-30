@@ -5,7 +5,6 @@ order: 4
 ---
 # Md. Tanvir Ahmed
 
-## About
 A passionate programmer having good analytical ability. Loves to solve problems and make things simple. A Python enthusiast who always tries to put best practices and improve code quality. Keen to learn and implement challenging stuff.
 
 ## Experience
@@ -57,6 +56,6 @@ Multimodal learning in industrial surface defect detection. (About to start)
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU2ODUzNDksMTQ4NTgyNTAyLDEwNT
-AyMjk2NjYsLTEwODY3OTkxMTZdfQ==
+eyJoaXN0b3J5IjpbLTYyNzQ0MDU4MiwtMTM1NTY4NTM0OSwxND
+g1ODI1MDIsMTA1MDIyOTY2NiwtMTA4Njc5OTExNl19
 -->
