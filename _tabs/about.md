@@ -9,8 +9,8 @@ A passionate programmer having good analytical ability. Loves to solve problems 
 
 ## Experience
 ### Software Engineer
-> Worklife June2021 - Ongoing
-> Python, Django, React,
+#### Worklife June2021 - Ongoing
+> Python, Django, React, Slack SDK, PostgreSQL, Azure, AWS
 
 - 2021.09 - Present, Tsinghua University, Data Science and Information Technology, Candidate Master
 - 2017.09 - 2021.06, Beijing Institute of Technology, Statistics, Bachelor
@@ -57,7 +57,7 @@ Multimodal learning in industrial surface defect detection. (About to start)
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODcxNzkxMywtNjI3NDQwNTgyLC0xMz
+eyJoaXN0b3J5IjpbMjAxNjE0NDY3NywtNjI3NDQwNTgyLC0xMz
 U1Njg1MzQ5LDE0ODU4MjUwMiwxMDUwMjI5NjY2LC0xMDg2Nzk5
 MTE2XX0=
 -->
