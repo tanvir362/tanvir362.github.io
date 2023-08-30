@@ -28,14 +28,18 @@ A passionate programmer having good analytical ability. Loves to solve problems 
 - Developed CRM software
 
 ## Education
+
 ### B.Sc in Computer Science and Engineering
 #### Bangladesh University of Business and Technology
-> 
+> Feb 2016 - Jan 2020
+Completed several university projects as a group leader, attended
+BACS national programming camp, attended different workshops and
+seminars.
 
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjQyOTQzMiwxMjQzNTg3NDczLC02Mj
-c0NDA1ODIsLTEzNTU2ODUzNDksMTQ4NTgyNTAyLDEwNTAyMjk2
-NjYsLTEwODY3OTkxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzkwMzE0NTksMTI0MzU4NzQ3MywtNj
+I3NDQwNTgyLC0xMzU1Njg1MzQ5LDE0ODU4MjUwMiwxMDUwMjI5
+NjY2LC0xMDg2Nzk5MTE2XX0=
 -->
