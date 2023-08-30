@@ -3,9 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# Tanvir Ahmed
+# Md. Tanvir Ahmed
 
-## Background
+## About
+A passionate programmer having good analytical ability. Loves to solve problems and make things simple. A Python enthusiast who always tries to put best practices and improve code quality. Keen to learn and implement challenging stuff.
+
+##E
 
 - 2021.09 - Present, Tsinghua University, Data Science and Information Technology, Candidate Master
 - 2017.09 - 2021.06, Beijing Institute of Technology, Statistics, Bachelor
@@ -52,6 +55,6 @@ Multimodal learning in industrial surface defect detection. (About to start)
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTgyMjQ0MCwxNDg1ODI1MDIsMTA1MD
+eyJoaXN0b3J5IjpbLTk2NTAxOTE2MiwxNDg1ODI1MDIsMTA1MD
 IyOTY2NiwtMTA4Njc5OTExNl19
 -->
