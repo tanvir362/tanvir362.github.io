@@ -8,6 +8,7 @@ order: 4
 A passionate programmer having good analytical ability. Loves to solve problems and make things simple. A Python enthusiast who always tries to put best practices and improve code quality. Keen to learn and implement challenging stuff.
 
 ## Experience
+
 ### Software Engineer
 #### Worklife
 > June2021 - Ongoing
@@ -22,7 +23,7 @@ A passionate programmer having good analytical ability. Loves to solve problems 
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTkyNzAzOSwtNjI3NDQwNTgyLC0xMz
+eyJoaXN0b3J5IjpbMTI0MzU4NzQ3MywtNjI3NDQwNTgyLC0xMz
 U1Njg1MzQ5LDE0ODU4MjUwMiwxMDUwMjI5NjY2LC0xMDg2Nzk5
 MTE2XX0=
 -->
