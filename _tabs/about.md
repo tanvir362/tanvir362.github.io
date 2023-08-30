@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# Chen LI
+# Tanvir Ahmed
 
 ## Background
 
@@ -52,6 +52,6 @@ Multimodal learning in industrial surface defect detection. (About to start)
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTgyNTAyLDEwNTAyMjk2NjYsLTEwOD
-Y3OTkxMTZdfQ==
+eyJoaXN0b3J5IjpbMTM5OTgyMjQ0MCwxNDg1ODI1MDIsMTA1MD
+IyOTY2NiwtMTA4Njc5OTExNl19
 -->
