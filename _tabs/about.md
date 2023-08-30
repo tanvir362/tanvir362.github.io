@@ -20,8 +20,8 @@ A passionate programmer having good analytical ability. Loves to solve problems 
 - 
 ### Software Engineer
 #### D2
-> June2021 - Ongoing
-> Python, Django, React, Slack SDK, PostgreSQL, Azure, AWS
+> Jan 2020 - Jun 2021
+> Python, Django, React, Material-UI, PostgreSQL, AWS
 - Developed an employee recognition and praising system
 - Developed Google Calendar, Google Drive and GitHub integrations for Web and Slack app
 - Improved the flexibility and modularity of an existing product by restructuring it
@@ -31,7 +31,7 @@ A passionate programmer having good analytical ability. Loves to solve problems 
 
 <!-- ## Personal Statement -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDIwNTUxNzAsMTI0MzU4NzQ3MywtNj
-I3NDQwNTgyLC0xMzU1Njg1MzQ5LDE0ODU4MjUwMiwxMDUwMjI5
-NjY2LC0xMDg2Nzk5MTE2XX0=
+eyJoaXN0b3J5IjpbNDQxMzU0ODA2LDEyNDM1ODc0NzMsLTYyNz
+Q0MDU4MiwtMTM1NTY4NTM0OSwxNDg1ODI1MDIsMTA1MDIyOTY2
+NiwtMTA4Njc5OTExNl19
 -->
